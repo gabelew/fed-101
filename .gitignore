@@ -1,0 +1,13 @@
+### OSX ###
+*.DS_Store
+.AppleDouble
+.LSOverride
+# Dependency directories
+node_modules
+### Dev Env ###
+# IDEs
+.vscode
+.idea
+*.iml
+tags
+*.code-workspace
